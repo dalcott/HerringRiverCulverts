@@ -1,0 +1,80 @@
+"","X1","X2","X3","X4","X5","X6","X7","Variables","Flag1"
+"1","Sex",NA,NA,NA,NA,NA,NA,"Sex",0
+"2","Length",NA,NA,NA,NA,NA,NA,"Length",0
+"3","Returner",NA,NA,NA,NA,NA,NA,"Returner",0
+"4","PrevPasses",NA,NA,NA,NA,NA,NA,"PrevPasses",0
+"5","LightCond",NA,NA,NA,NA,NA,NA,"LightCond",1
+"6","DaysSincePeak",NA,NA,NA,NA,NA,NA,"DaysSincePeak",0
+"7","LightCond*DaysSincePeak",NA,NA,NA,NA,NA,NA,"LightCond*DaysSincePeak",0
+"8","Sex","Length",NA,NA,NA,NA,NA,"Sex+ Length",0
+"9","Sex","Returner",NA,NA,NA,NA,NA,"Sex+ Returner",0
+"10","Sex","PrevPasses",NA,NA,NA,NA,NA,"Sex+ PrevPasses",0
+"11","Sex","LightCond",NA,NA,NA,NA,NA,"Sex+ LightCond",1
+"12","Sex","DaysSincePeak",NA,NA,NA,NA,NA,"Sex+ DaysSincePeak",0
+"13","Sex","LightCond*DaysSincePeak",NA,NA,NA,NA,NA,"Sex+ LightCond*DaysSincePeak",0
+"14","Length","Returner",NA,NA,NA,NA,NA,"Length+ Returner",0
+"15","Length","PrevPasses",NA,NA,NA,NA,NA,"Length+ PrevPasses",0
+"16","Length","LightCond",NA,NA,NA,NA,NA,"Length+ LightCond",1
+"17","Length","DaysSincePeak",NA,NA,NA,NA,NA,"Length+ DaysSincePeak",0
+"18","Length","LightCond*DaysSincePeak",NA,NA,NA,NA,NA,"Length+ LightCond*DaysSincePeak",0
+"19","Returner","PrevPasses",NA,NA,NA,NA,NA,"Returner+ PrevPasses",0
+"20","Returner","LightCond",NA,NA,NA,NA,NA,"Returner+ LightCond",1
+"21","Returner","DaysSincePeak",NA,NA,NA,NA,NA,"Returner+ DaysSincePeak",0
+"22","Returner","LightCond*DaysSincePeak",NA,NA,NA,NA,NA,"Returner+ LightCond*DaysSincePeak",0
+"23","PrevPasses","LightCond",NA,NA,NA,NA,NA,"PrevPasses+ LightCond",1
+"24","PrevPasses","DaysSincePeak",NA,NA,NA,NA,NA,"PrevPasses+ DaysSincePeak",0
+"25","PrevPasses","LightCond*DaysSincePeak",NA,NA,NA,NA,NA,"PrevPasses+ LightCond*DaysSincePeak",0
+"26","LightCond","DaysSincePeak",NA,NA,NA,NA,NA,"LightCond+ DaysSincePeak",1
+"27","Sex","Length","Returner",NA,NA,NA,NA,"Sex+ Length+ Returner",0
+"28","Sex","Length","PrevPasses",NA,NA,NA,NA,"Sex+ Length+ PrevPasses",0
+"29","Sex","Length","LightCond",NA,NA,NA,NA,"Sex+ Length+ LightCond",1
+"30","Sex","Length","DaysSincePeak",NA,NA,NA,NA,"Sex+ Length+ DaysSincePeak",0
+"31","Sex","Length","LightCond*DaysSincePeak",NA,NA,NA,NA,"Sex+ Length+ LightCond*DaysSincePeak",0
+"32","Sex","Returner","PrevPasses",NA,NA,NA,NA,"Sex+ Returner+ PrevPasses",0
+"33","Sex","Returner","LightCond",NA,NA,NA,NA,"Sex+ Returner+ LightCond",1
+"34","Sex","Returner","DaysSincePeak",NA,NA,NA,NA,"Sex+ Returner+ DaysSincePeak",0
+"35","Sex","Returner","LightCond*DaysSincePeak",NA,NA,NA,NA,"Sex+ Returner+ LightCond*DaysSincePeak",0
+"36","Sex","PrevPasses","LightCond",NA,NA,NA,NA,"Sex+ PrevPasses+ LightCond",1
+"37","Sex","PrevPasses","DaysSincePeak",NA,NA,NA,NA,"Sex+ PrevPasses+ DaysSincePeak",0
+"38","Sex","PrevPasses","LightCond*DaysSincePeak",NA,NA,NA,NA,"Sex+ PrevPasses+ LightCond*DaysSincePeak",0
+"39","Sex","LightCond","DaysSincePeak",NA,NA,NA,NA,"Sex+ LightCond+ DaysSincePeak",1
+"40","Length","Returner","PrevPasses",NA,NA,NA,NA,"Length+ Returner+ PrevPasses",0
+"41","Length","Returner","LightCond",NA,NA,NA,NA,"Length+ Returner+ LightCond",1
+"42","Length","Returner","DaysSincePeak",NA,NA,NA,NA,"Length+ Returner+ DaysSincePeak",0
+"43","Length","Returner","LightCond*DaysSincePeak",NA,NA,NA,NA,"Length+ Returner+ LightCond*DaysSincePeak",0
+"44","Length","PrevPasses","LightCond",NA,NA,NA,NA,"Length+ PrevPasses+ LightCond",1
+"45","Length","PrevPasses","DaysSincePeak",NA,NA,NA,NA,"Length+ PrevPasses+ DaysSincePeak",0
+"46","Length","PrevPasses","LightCond*DaysSincePeak",NA,NA,NA,NA,"Length+ PrevPasses+ LightCond*DaysSincePeak",0
+"47","Length","LightCond","DaysSincePeak",NA,NA,NA,NA,"Length+ LightCond+ DaysSincePeak",1
+"48","Returner","PrevPasses","LightCond",NA,NA,NA,NA,"Returner+ PrevPasses+ LightCond",1
+"49","Returner","PrevPasses","DaysSincePeak",NA,NA,NA,NA,"Returner+ PrevPasses+ DaysSincePeak",0
+"50","Returner","PrevPasses","LightCond*DaysSincePeak",NA,NA,NA,NA,"Returner+ PrevPasses+ LightCond*DaysSincePeak",0
+"51","Returner","LightCond","DaysSincePeak",NA,NA,NA,NA,"Returner+ LightCond+ DaysSincePeak",1
+"52","PrevPasses","LightCond","DaysSincePeak",NA,NA,NA,NA,"PrevPasses+ LightCond+ DaysSincePeak",1
+"53","Sex","Length","Returner","PrevPasses",NA,NA,NA,"Sex+ Length+ Returner+ PrevPasses",0
+"54","Sex","Length","Returner","LightCond",NA,NA,NA,"Sex+ Length+ Returner+ LightCond",1
+"55","Sex","Length","Returner","DaysSincePeak",NA,NA,NA,"Sex+ Length+ Returner+ DaysSincePeak",0
+"56","Sex","Length","Returner","LightCond*DaysSincePeak",NA,NA,NA,"Sex+ Length+ Returner+ LightCond*DaysSincePeak",0
+"57","Sex","Length","PrevPasses","LightCond",NA,NA,NA,"Sex+ Length+ PrevPasses+ LightCond",1
+"58","Sex","Length","PrevPasses","DaysSincePeak",NA,NA,NA,"Sex+ Length+ PrevPasses+ DaysSincePeak",0
+"59","Sex","Length","PrevPasses","LightCond*DaysSincePeak",NA,NA,NA,"Sex+ Length+ PrevPasses+ LightCond*DaysSincePeak",0
+"60","Sex","Length","LightCond","DaysSincePeak",NA,NA,NA,"Sex+ Length+ LightCond+ DaysSincePeak",1
+"61","Sex","Returner","PrevPasses","LightCond",NA,NA,NA,"Sex+ Returner+ PrevPasses+ LightCond",1
+"62","Sex","Returner","PrevPasses","DaysSincePeak",NA,NA,NA,"Sex+ Returner+ PrevPasses+ DaysSincePeak",0
+"63","Sex","Returner","PrevPasses","LightCond*DaysSincePeak",NA,NA,NA,"Sex+ Returner+ PrevPasses+ LightCond*DaysSincePeak",0
+"64","Sex","Returner","LightCond","DaysSincePeak",NA,NA,NA,"Sex+ Returner+ LightCond+ DaysSincePeak",1
+"65","Sex","PrevPasses","LightCond","DaysSincePeak",NA,NA,NA,"Sex+ PrevPasses+ LightCond+ DaysSincePeak",1
+"66","Length","Returner","PrevPasses","LightCond",NA,NA,NA,"Length+ Returner+ PrevPasses+ LightCond",1
+"67","Length","Returner","PrevPasses","DaysSincePeak",NA,NA,NA,"Length+ Returner+ PrevPasses+ DaysSincePeak",0
+"68","Length","Returner","PrevPasses","LightCond*DaysSincePeak",NA,NA,NA,"Length+ Returner+ PrevPasses+ LightCond*DaysSincePeak",0
+"69","Length","Returner","LightCond","DaysSincePeak",NA,NA,NA,"Length+ Returner+ LightCond+ DaysSincePeak",1
+"70","Length","PrevPasses","LightCond","DaysSincePeak",NA,NA,NA,"Length+ PrevPasses+ LightCond+ DaysSincePeak",1
+"71","Returner","PrevPasses","LightCond","DaysSincePeak",NA,NA,NA,"Returner+ PrevPasses+ LightCond+ DaysSincePeak",1
+"72","Sex","Length","Returner","PrevPasses","LightCond",NA,NA,"Sex+ Length+ Returner+ PrevPasses+ LightCond",1
+"73","Sex","Length","Returner","PrevPasses","DaysSincePeak",NA,NA,"Sex+ Length+ Returner+ PrevPasses+ DaysSincePeak",0
+"74","Sex","Length","Returner","PrevPasses","LightCond*DaysSincePeak",NA,NA,"Sex+ Length+ Returner+ PrevPasses+ LightCond*DaysSincePeak",0
+"75","Sex","Length","Returner","LightCond","DaysSincePeak",NA,NA,"Sex+ Length+ Returner+ LightCond+ DaysSincePeak",1
+"76","Sex","Length","PrevPasses","LightCond","DaysSincePeak",NA,NA,"Sex+ Length+ PrevPasses+ LightCond+ DaysSincePeak",1
+"77","Sex","Returner","PrevPasses","LightCond","DaysSincePeak",NA,NA,"Sex+ Returner+ PrevPasses+ LightCond+ DaysSincePeak",1
+"78","Length","Returner","PrevPasses","LightCond","DaysSincePeak",NA,NA,"Length+ Returner+ PrevPasses+ LightCond+ DaysSincePeak",1
+"79","Sex","Length","Returner","PrevPasses","LightCond","DaysSincePeak",NA,"Sex+ Length+ Returner+ PrevPasses+ LightCond+ DaysSincePeak",1

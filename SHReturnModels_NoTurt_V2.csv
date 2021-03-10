@@ -1,0 +1,32 @@
+"","X1","X2","X3","X4","X5","Variables","VariableCount"
+"1","Sex",NA,NA,NA,NA,"Sex",1
+"2","Length",NA,NA,NA,NA,"Length",1
+"3","Returner",NA,NA,NA,NA,"Returner",1
+"4","LightCond",NA,NA,NA,NA,"LightCond",1
+"5","LightCond*DaysSincePeak",NA,NA,NA,NA,"LightCond*DaysSincePeak",1
+"6","Sex","Length",NA,NA,NA,"Sex+ Length",2
+"7","Sex","Returner",NA,NA,NA,"Sex+ Returner",2
+"8","Sex","LightCond",NA,NA,NA,"Sex+ LightCond",2
+"9","Sex","LightCond*DaysSincePeak",NA,NA,NA,"Sex+ LightCond*DaysSincePeak",2
+"10","Length","Returner",NA,NA,NA,"Length+ Returner",2
+"11","Length","LightCond",NA,NA,NA,"Length+ LightCond",2
+"12","Length","LightCond*DaysSincePeak",NA,NA,NA,"Length+ LightCond*DaysSincePeak",2
+"13","Returner","LightCond",NA,NA,NA,"Returner+ LightCond",2
+"14","Returner","LightCond*DaysSincePeak",NA,NA,NA,"Returner+ LightCond*DaysSincePeak",2
+"15","LightCond","LightCond*DaysSincePeak",NA,NA,NA,"LightCond+ LightCond*DaysSincePeak",2
+"16","Sex","Length","Returner",NA,NA,"Sex+ Length+ Returner",3
+"17","Sex","Length","LightCond",NA,NA,"Sex+ Length+ LightCond",3
+"18","Sex","Length","LightCond*DaysSincePeak",NA,NA,"Sex+ Length+ LightCond*DaysSincePeak",3
+"19","Sex","Returner","LightCond",NA,NA,"Sex+ Returner+ LightCond",3
+"20","Sex","Returner","LightCond*DaysSincePeak",NA,NA,"Sex+ Returner+ LightCond*DaysSincePeak",3
+"21","Sex","LightCond","LightCond*DaysSincePeak",NA,NA,"Sex+ LightCond+ LightCond*DaysSincePeak",3
+"22","Length","Returner","LightCond",NA,NA,"Length+ Returner+ LightCond",3
+"23","Length","Returner","LightCond*DaysSincePeak",NA,NA,"Length+ Returner+ LightCond*DaysSincePeak",3
+"24","Length","LightCond","LightCond*DaysSincePeak",NA,NA,"Length+ LightCond+ LightCond*DaysSincePeak",3
+"25","Returner","LightCond","LightCond*DaysSincePeak",NA,NA,"Returner+ LightCond+ LightCond*DaysSincePeak",3
+"26","Sex","Length","Returner","LightCond",NA,"Sex+ Length+ Returner+ LightCond",4
+"27","Sex","Length","Returner","LightCond*DaysSincePeak",NA,"Sex+ Length+ Returner+ LightCond*DaysSincePeak",4
+"28","Sex","Length","LightCond","LightCond*DaysSincePeak",NA,"Sex+ Length+ LightCond+ LightCond*DaysSincePeak",4
+"29","Sex","Returner","LightCond","LightCond*DaysSincePeak",NA,"Sex+ Returner+ LightCond+ LightCond*DaysSincePeak",4
+"30","Length","Returner","LightCond","LightCond*DaysSincePeak",NA,"Length+ Returner+ LightCond+ LightCond*DaysSincePeak",4
+"31","Sex","Length","Returner","LightCond","LightCond*DaysSincePeak","Sex+ Length+ Returner+ LightCond+ LightCond*DaysSincePeak",5
